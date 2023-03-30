@@ -5,3 +5,9 @@ This is my second hands-on project to learn how to use SQL Server to transform a
 And using Power BI to visualize the result tables into charts 
 
 **Results: Found out some impact indicators and proposed solutions to improve conversion rates**
+
+- My Report: Funnel Analysis of E-commerce website
+
+- My Source code: SQL Funnel Analysis - project.sql
+
+- Dataset: archive.zip
