@@ -126,7 +126,7 @@ While the above data is still lacking for deeper root cause analysis, I will mak
 
 - Re-evaluate and improve UX/UI Pages and checkout processes on both Mobile and Desktop version to find out what's stopping customers from switching between stages and between pages.
 
-- Prioritize evaluation and upgrade Payment Page & Payment Confirmation Page on Desktop version
+- Prioritized evaluate and upgrade the Payment Page & Payment Confirmation Page on the Desktop version
 
 
 
