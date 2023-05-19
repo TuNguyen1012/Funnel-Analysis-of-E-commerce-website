@@ -2,7 +2,7 @@
 
 **Objective:**
 
-Analyze the purchase conversion rate on the company website and make recommendations for improvement
+Analyze the company website conversion rates and recommend strategies to optimize the website and improve the conversion rate. 
 
 **Tools:**
 
