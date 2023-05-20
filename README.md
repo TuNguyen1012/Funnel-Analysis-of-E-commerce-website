@@ -1,10 +1,12 @@
 # READ ME
 
-**Objective:**
+## Description
 
-Analyze the company website conversion rates and recommend strategies to optimize the website and improve the conversion rate. 
+Analyzing the website's purchase conversion rate, we can identify where visitors drop off in the purchase process.
 
-**Tools:**
+This allows us to make recommendations on how to improve the website's usability and increase the likelihood of a successful purchase.
+
+## Tools:
 
 - Using SQL to query data for analytics & reports to extract insights, with statements: JOIN, TEMPORARY TABLE, WITH,...
 
