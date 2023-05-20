@@ -2,7 +2,7 @@
 
 ## Description
 
-Analyzing the website's purchase conversion rate, we can identify where visitors drop off in the purchase process.
+By Analyzing the website's purchase conversion rate, we can identify where visitors drop off in the purchase process.
 
 This allows us to make recommendations on how to improve the website's usability and increase the likelihood of a successful purchase.
 
